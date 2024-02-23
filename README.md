@@ -11,7 +11,7 @@ This is a simple landing page template for showcasing a mobile app or any other 
 - [License](#license)
 
 ## Try it out !
-- [Description](https://company-bootstrap.vercel.app/)
+- [Demo Link](https://company-bootstrap.vercel.app/)
 
 ## Description
 
